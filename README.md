@@ -1,4 +1,4 @@
-# food-ordering-chatbot
+# Food ordering chatbot
 
 ***This application was developed as a project under the CS-510 (Introduction to Artificial Intelligence) course at Drexel University.***
 
